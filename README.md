@@ -1,5 +1,7 @@
 == README
 
+Getting back into Ruby on Rails by doing what seems like it's going to be an excellent refresher tutorial!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
